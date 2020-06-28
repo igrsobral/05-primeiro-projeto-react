@@ -8,4 +8,4 @@ Principais dependências utilizadas:
 * Styled Components e Polished para estilização.
 * React Router DOM 
 
-!(imagem home)[readme-img/home.png]
+![readme-img/home.png](imagem home)
