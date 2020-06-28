@@ -8,4 +8,4 @@ Principais dependências utilizadas:
 * Styled Components e Polished para estilização.
 * React Router DOM 
 
-!![alt text](https://github.com/igorWebMASTER/05-primeiro-projeto-react/readme-img/home.png?raw=true)
+!![alt text](https://github.com/igorWebMASTER/05-primeiro-projeto-react/blob/master/readme-img/home.png)
